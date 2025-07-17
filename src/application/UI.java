@@ -80,7 +80,6 @@ public class UI {
 				System.out.print(ANSI_YELLOW + piece + ANSI_RESET + " ");
 			}
 		}
-		// Resetar o fundo também
 		if (background) {
 			System.out.print(ANSI_RESET);
 		}
